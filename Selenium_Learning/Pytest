@@ -1,0 +1,8 @@
+
+Format for pytest should be
+test_.py
+_test.py
+
+Format for method should be
+test_()
+
